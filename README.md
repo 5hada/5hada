@@ -3,6 +3,7 @@ CSE student
 Interested in developer tools, desktop applications, and user interface design.
 
 ## Skills
+- C#
 - TypeScript
 - React
 - C++
