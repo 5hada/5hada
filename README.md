@@ -9,7 +9,7 @@ Interested in developer tools, desktop applications, and user interface design.
 
 
 ## Projects
-- NodeCanvas: Visual node editor
+- NodeCanvas : Visual node editor
 
 <!--
 **5hada/5hada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
